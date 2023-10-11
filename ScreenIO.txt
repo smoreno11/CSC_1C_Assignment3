@@ -1,0 +1,41 @@
+**********************************************
+* PROGRAMMED BY : Saul Moreno
+* STUDENT ID    : 269491
+* CLASS         : CS 1C MW-5:00pm
+* ASSIGNMENT #3 : Pointer
+***********************************************
+
+This program will show the items available for purchase
+and how many are in stock. Then after the user has
+selected how many they want the program will add up
+their total before and after tax
+
+Name of Equipment     Cost   Quantity
+Nike basketball shoes 179.99  25
+Under Armour T-shirt  29.99   88
+Brooks running shoes  121.44  13
+Asics running shoes   165.88  12
+Under Armour shorts   45.77   35
+
+Enter how many Nike basketball shoes do you want? 4
+Enter how many Under Armour T-shirts do you want? 5
+Enter how many Brooks shoes do you want?          0
+Enter how many Asics running shoes do you want?   1
+Enter how many Under Armour shorts do you want?   6
+
+Nike shoes left in inventory:   21
+T-Shirts left in inventory:     83
+Brooks shoes left in inventory: 13
+Asics shoes left in inventory:  11
+Shorts left in inventory:       29
+
+Receipt
+Nike Shoes            x4 = 719.96
+Under Armour T-shirts x5 = 149.95
+Brooks shoes          x0 = 0.00
+Asics shoes           x1 = 165.88
+Under Armour shorts   x6 = 274.62
+
+Amount before tax:    1310.41
+Tax:                  101.56
+Amount after tax:     1411.97
